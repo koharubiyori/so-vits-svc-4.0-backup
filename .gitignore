@@ -142,7 +142,7 @@ dmypy.json
 
 dataset
 dataset_raw
-
+raw
 results
 inference/chunks_temp.json
 logs
